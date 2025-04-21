@@ -13,7 +13,7 @@ I’m an Environmental Student based in England, I'm passionate about helping th
 - 📚 Continuously learning: Whether it's  on the bus or reading  books, I'm always enhancing my skills.
 -  🎮Game Dev: I love video games and have been learning how to create video games using pygame and Lua..
 - 🌍 Multilingual: Fluent in English and Spanish in process.
-- 🎓 Educated in both Chemistry, Mathematics and currently pursuing Environmental Science.
+- 🎓 Educated in Chemistry, Mathematics and currently pursuing Environmental Science.
 
 ## 📫 Connect With Me
 
